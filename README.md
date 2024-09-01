@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Space-Journey](https://github.com/kawthar-shameseldeen/Space-Journey-.git)
 
-- 💬 Ask me about **Laravel , React**
+- 💬 Ask me about **Laravel , React, Node.js, Express, MongoDB, SQL, Redux , Electron.js  **
 
 - 📫 How to reach me **kawtharshameseldeen@gmail.com**
 
