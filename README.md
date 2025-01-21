@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawthar-shameseldeen&label=Profile%20views&color=0e75b6&style=flat" alt="kawthar-shameseldeen" /> </p>
 
-- 🔭 I’m currently working on [Space-Journey](https://github.com/kawthar-shameseldeen/Space-Journey-.git)
 
 - 💬 Ask me about **Laravel , React, Node.js, Express, MongoDB, SQL, Redux , Electron.js 
 
